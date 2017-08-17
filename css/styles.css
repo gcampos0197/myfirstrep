@@ -1,0 +1,38 @@
+.one {
+  height: 50px;
+  background-color: black;
+  margin-top: 25px
+}
+
+.two {
+  height: 25px;
+  background-color: white;
+  margin-top: 35px;
+}
+
+.three {
+  height: 25px;
+  background-color: black;
+  margin-top: 35px;
+  margin-right: 15px;
+}
+
+.four {
+  height: 25px;
+  background-color: black;
+  margin-top: 35px;
+  margin-right: 15px;
+}
+
+.five {
+  height: 25px;
+  background-color: black;
+  margin-top: 35px;
+  margin-right: 15px;
+}
+
+.bigbox {
+  background-color: black;
+  height: 300px;
+  margin-top: 20px;
+}
