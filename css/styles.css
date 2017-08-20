@@ -1,0 +1,61 @@
+.one {
+  height: 75px;
+  margin-top: 25px;
+  background-color: black;
+}
+
+.one-one,
+.one-two,
+.one-three {
+  padding: 15px;
+  background-color: black;
+  height: 25px;
+  margin-top: 50px;
+}
+
+.four {
+  padding-right: 0px;
+}
+
+.bigbox {
+  background-color: black;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.single {
+  height: 25px;
+  background-color: black;
+  margin-top: 20px;
+}
+
+.six {
+  padding-left: 0;
+}
+
+.four-one,
+.four-two,
+.four-three {
+  padding: 30px 30px 30px 0;
+  background-color: black;
+  height: 150px;
+  margin-top: 20px;
+}
+
+.nine {
+  padding-left: 0;
+}
+
+.five-one,
+.five-two,
+.five-three {
+  padding: 30px 30px 30px 0;
+  background-color: black;
+  height: 150px;
+  margin: 20px 0 20px 0;
+}
+
+.eight,
+.eleven {
+  padding-right: 0;
+}
